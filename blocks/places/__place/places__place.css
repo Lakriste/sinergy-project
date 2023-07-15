@@ -2,7 +2,7 @@
     /* width: 984px; */
 }
 
-@media screen and (min-width: 767px) and (max-width: 1024px) {
+@media screen and (min-width: 767px) and (max-width: 984px) {
     .places__place {
         width: 500px;
         margin: 0 auto ;

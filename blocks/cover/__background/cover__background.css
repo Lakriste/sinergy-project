@@ -1,0 +1,10 @@
+.cover__background {
+/*  display: flex; */
+  width: 1184px;
+  background: #2A2C2F;
+}
+
+.cover__background img {
+	width: 100%;
+	opacity: 70%;
+}

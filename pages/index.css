@@ -34,6 +34,13 @@
 @import url(../blocks/photo-grid/__item/photo-grid__item.css);
 
 
+@import url(../blocks/cover/cover.css);
+@import url(../blocks/cover/__overlay/cover__overlay..css);
+@import url(../blocks/cover/__text/cover__text.css);
+@import url(../blocks/cover/__tittle/cover__tittle.css);
+@import url(../blocks/cover/__subtittle/cover__subtittle.css);
+@import url(../blocks/cover/__background/cover__background.css);
+
 
 
 
