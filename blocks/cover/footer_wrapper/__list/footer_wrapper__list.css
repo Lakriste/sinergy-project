@@ -1,4 +1,4 @@
-.footer__wrapper__list {
+.footer_wrapper__list {
     display: flex;
     flex-direction: column;
     justify-content: space-between;
@@ -7,7 +7,7 @@
 }
 
 @media (min-width: 768px) {
-    .footer__wrapper__list {
+    .footer_wrapper__list {
         display: flex;
         flex-direction: row;
         width: 465px;
