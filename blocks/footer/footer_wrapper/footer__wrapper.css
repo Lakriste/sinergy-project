@@ -1,0 +1,35 @@
+.footer__wrapper {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-self: center;
+    margin-top: 64px;
+    width: 288px;
+    height: 372px;
+}
+
+@media (min-width: 768px) {
+    .footer__wrapper {
+        display: flex;
+        flex-direction: row;
+        width: 720px;
+        height: 18px;
+    }
+}
+
+@media (min-width: 1024px) {
+    .footer__wrapper {
+        display: flex;
+        flex-direction: row;
+        width: 928px;
+        height: 18px;
+        margin-top: 92px;
+    }
+}
+
+@media (min-width: 1280px) {
+    .footer__wrapper {
+        width: 1184px;
+
+    }
+}

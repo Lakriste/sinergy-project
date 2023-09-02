@@ -1,0 +1,19 @@
+.wrapper__list-link {
+    display: flex;
+    text-decoration: none;
+    color: #FFF;
+    font-size: 24px;
+    font-family: Inter;
+    line-height: 24px;
+}
+
+@media (min-width: 768px) {
+    .wrapper__list-link {
+        display: flex;
+        text-decoration: none;
+        color: #FFF;
+        font-size: 16px;
+        font-family: Inter;
+        line-height: 18px;
+    }
+}

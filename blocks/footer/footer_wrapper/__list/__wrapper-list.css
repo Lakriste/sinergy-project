@@ -1,0 +1,16 @@
+.footer__wrapper__list {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    width: 186px;
+    height: 310px;
+}
+
+@media (min-width: 768px) {
+    .footer__wrapper__list {
+        display: flex;
+        flex-direction: row;
+        width: 465px;
+        height: 18px;
+    }
+}

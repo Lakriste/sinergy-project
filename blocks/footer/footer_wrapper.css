@@ -1,0 +1,36 @@
+
+.footer_wrapper {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-self: center;
+    margin-top: 64px;
+    width: 288px;
+    height: 372px;
+}
+
+@media (min-width: 768px) {
+    .footer_wrapper {
+        display: flex;
+        flex-direction: row;
+        width: 720px;
+        height: 18px;
+    }
+}
+
+@media (min-width: 1024px) {
+    .footer_wrapper {
+        display: flex;
+        flex-direction: row;
+        width: 928px;
+        height: 18px;
+        margin-top: 92px;
+    }
+}
+
+@media (min-width: 1280px) {
+    .footer_wrapper {
+        width: 1184px;
+
+    }
+}
