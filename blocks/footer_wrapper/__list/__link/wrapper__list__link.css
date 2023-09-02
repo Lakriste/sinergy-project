@@ -1,4 +1,4 @@
-.wrapper__list-link {
+.wrapper__list__link {
     display: flex;
     text-decoration: none;
     color: #FFF;
@@ -8,7 +8,7 @@
 }
 
 @media (min-width: 768px) {
-    .wrapper__list-link {
+    .wrapper__list__link {
         display: flex;
         text-decoration: none;
         color: #FFF;
